@@ -27,6 +27,6 @@ to be <br>
 
  Clear the cache after that and you are done.
 
- Many Thanks for your suuport.
+ Many Thanks for your suport.
 
  Sofiane Khelfaoui
