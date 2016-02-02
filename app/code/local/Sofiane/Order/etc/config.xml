@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sofiane_Order>
+            <version>0.1.0</version>
+        </Sofiane_Order>
+    </modules>
+    <global>
+        <helpers>
+            <sofiane_order>
+                <class>Sofiane_Order_Helper</class>
+            </sofiane_order>
+            <adminhtml>
+                <rewrite>
+                    <sales>Sofiane_Order_Helper_Sales</sales>
+                </rewrite>
+            </adminhtml>
+        </helpers>
+    </global>
+</config>
