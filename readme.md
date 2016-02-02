@@ -2,7 +2,7 @@
 * Email: Sofianek94@gmail.com
 * Description: Module to fix the magento patch 7405 admin order view issue.
 * Issue: If your server PHP version is < 5.4 incompatibility so the issue will raise. otherwise ignore this module.
-* Module Test: Magento Version 1.7.2.
+* Module Tested in versions: Magento Version 1.7.2.
 
 Please make a full backup of your website before using this module, i don't take any responsibility for anything happens to your website after installing this module.
 
