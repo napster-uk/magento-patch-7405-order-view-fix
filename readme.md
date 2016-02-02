@@ -26,3 +26,7 @@ to be <br>
  active **false** /active
 
  Clear the cache after that and you are done.
+
+ Many Thanks for your suuport.
+
+ Sofiane Khelfaoui
