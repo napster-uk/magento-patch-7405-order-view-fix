@@ -18,11 +18,11 @@ Uninstall:
 
 to uninstall the module just navigate to app->etc->modules find Sofiane_Order.xml open the fle and change:
 
-this
- **active**true**/active**
+this <br>
+ <<active>true</active>>
 
-to be
+to be <br>
 
- **active**false**/active**
+ <<active>false</active>>
 
  Clear the cache after that and you are done.
